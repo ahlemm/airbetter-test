@@ -25,6 +25,15 @@ We expect your project to be stable and deliverable in production.
 
 ## Instructions
 
+**IMPORTANT**
+1- clone the project
+2- create your own branch with the following name `evel/YOUR-NAME`
+3- commit your work (free to choose the number of commits)
+4- push the branch
+
+if you face issues please send the code compressed in .rar or .zip format
+
+**Requested work**  
 This app displays a student list. Every student has 2 buttons: Details and Remove.
 Your job is to display a student's details when clicking on the "_Details_" button.
 The details are displayed in this format :
