@@ -23,15 +23,15 @@ Make this project yours! You have free reign to change it and show us your knowl
 
 We expect your project to be stable and deliverable in production.
 
-## Instructions
+## Instructions  
 
-**IMPORTANT**
-1- clone the project
-2- create your own branch with the following name `evel/YOUR-NAME`
-3- commit your work (free to choose the number of commits)
-4- push the branch
+**IMPORTANT**  
+1- clone the project  
+2- create your own branch with the following name `evel/YOUR-NAME`  
+3- commit your work (free to choose the number of commits)  
+4- push the branch  
 
-if you face issues please send the code compressed in .rar or .zip format
+if you face issues please send the code compressed in .rar or .zip format  
 
 **Requested work**  
 This app displays a student list. Every student has 2 buttons: Details and Remove.
